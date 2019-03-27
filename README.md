@@ -5,7 +5,7 @@ The published website can be seen at http://gitcases.github.io/rainbowcastle.
 
 [See formatting guide](formatting-guide.md)
 
-## Rainbow castle - main column
+## The castle
 
 <style type="text/css">
 .roof {

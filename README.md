@@ -7,4 +7,13 @@ The published website can be seen at http://gitcases.github.io/rainbowcastle.
 
 ## Rainbow castle - main column
 
-<div style="background:green;">background is green</div>
+<style type="text/css">
+.roof {
+  border: 100px solid transparent;
+  width: 200px;
+  border-top: none;
+  border-bottom-color: red;
+}
+</style>
+
+<div class="roof"></div>

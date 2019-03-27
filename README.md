@@ -1,8 +1,8 @@
 ## Rainbow castle!
-This is using the "github pages" feature, see https://pages.github.com/
+This is using the "github pages" feature, see https://pages.github.com/  
 [See formatting guide](formatting-guide.md)
 
-The published website can be seen at http://gitcases.github.io/rainbowcastle.
+The published website can be seen at http://gitcases.github.io/rainbowcastle.  
 You may need hard refresh (Ctrl+Shift+R) to see changes.
 
 

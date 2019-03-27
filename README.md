@@ -1,3 +1,8 @@
+## Rainbow castle!
+This is using the "github pages" feature, see https://pages.github.com/
+
+The published website can be seen at http://gitcases.github.io/rainbowcastle.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gitcases/rainbowcastle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

@@ -15,7 +15,7 @@ The published website can be seen at http://gitcases.github.io/rainbowcastle.
     border-bottom-color: red;
     box-sizing: border-box;
   }
-  .ground-floor: {
+  .ground-floor {
     background: grey;
     height: 200px;
     width: 200px;

@@ -32,6 +32,8 @@ You may need hard refresh (Ctrl+Shift+R) to see changes.
   }
 </style>
 
+<script>alert("Welcome to the rainbow castle");</script>
+
 <div class="roof"></div>
 <div class="ground-floor">
   <div class="door"></div>
